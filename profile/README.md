@@ -1,5 +1,9 @@
 # Vanta Servers
 
+<div align="center">
+  <img src="https://vantaroleplay.com/images/logo.svg" width="180" alt="Vanta Servers Logo">
+</div>
+
 Welcome to **Vanta Servers**, the team behind **Vanta RP**, a Garry's Mod DarkRP community.
 
 🌐 [vantaroleplay.com](https://vantaroleplay.com)
